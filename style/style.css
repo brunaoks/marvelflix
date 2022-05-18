@@ -41,7 +41,7 @@ header nav a:hover {
 
 .filme-principal {
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/capa-venom.jpg');
+    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url('/img/capa-venom.jpg');
     height: 400px;
     background-size: cover;
     display: flex;
@@ -62,7 +62,7 @@ header nav a:hover {
 }
 
 .botao {
-    background-color: rgba(0,0,0,.50);
+    background-color: rgba(0, 0, 0, .50);
     border: none;
     color: white;
     padding: 15px 30px;
