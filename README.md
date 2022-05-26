@@ -10,6 +10,6 @@ Layout da Netflix com tema da Marvel
 
  * <h2> :pushpin: Mobile </h2>
 <div align="left">
- <img src="https://user-images.githubusercontent.com/102770109/170493836-a9b3b9e3-d8d4-4af9-853d-53b87fb8a1ab.png" width="700px" />
+ <img src="https://user-images.githubusercontent.com/102770109/170493836-a9b3b9e3-d8d4-4af9-853d-53b87fb8a1ab.png" width="400px" />
  </div>
  
